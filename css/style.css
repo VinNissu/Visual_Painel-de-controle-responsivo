@@ -26,14 +26,20 @@ header {
      border-radius: 20px;
      margin-left:10px;
 }
+.info-header-icons{
+        width: 6%;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+    }
 
 .icons-header{
     margin:0 10px
 
 }
 
-.info-header svg{
-    margin-left: 100px;
+.info-header svg {
+    margin-left: 10px;
 }
 
 .main{
