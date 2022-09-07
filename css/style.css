@@ -113,6 +113,25 @@ font-weight: bold;}
 }
 
 .content{
+    padding: 20px;
     width: 80%;
     background-color: rgb(245,245,245);
+}
+
+.titulo-secao {
+    border-radius: 10px;
+    background-color:white;
+    padding: 10px;
+}
+
+.titulo-secao h2{
+    font-size: 19px;
+}
+
+.titulo-secao p{
+    font-size: 14px;
+}
+
+.titulo-secao p i{
+    color: #73b4ff;
 }
