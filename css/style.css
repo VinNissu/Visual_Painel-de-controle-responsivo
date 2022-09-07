@@ -160,3 +160,51 @@ font-weight: bold;}
     
     
 }
+.fa-money-check-dollar:before {
+    content: "\f53d";
+    font-size: 30px;
+}
+
+.feed{
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 100%;
+    padding: 30px;
+}
+
+.feed-single{
+    display: flex;
+    justify-content:space-between;
+}
+
+.feed-text{
+    display: flex;
+}
+
+.feed-text span{
+    color: black;
+    display: inline-block ;
+    margin: 8px;   
+}
+
+.feed-text i{
+
+    position: absolute;
+    left:50%;
+    top: 50%;
+    transform:translate(-50%,-50%);
+    font-size: 18px;
+    color: #73b4ff;
+}
+.feed-text .circle-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #dadeff ;
+    position: relative;
+}
+
+.feed-time{
+    color: #444;
+}
