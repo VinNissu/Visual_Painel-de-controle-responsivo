@@ -1,7 +1,7 @@
 # painel-controle-responsivo
 
 
-https://vinnyalmeidabr.github.io/final.Painel-Controle-Responsivo/
+https://vinnyalmeidabr.github.io/Visual.Painel-de-controle-responsivo/
 
 
 Um painel de controle responsivo
